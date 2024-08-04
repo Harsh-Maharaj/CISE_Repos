@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Link to AUT Website below.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.aut.ac.nz/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Agile is about Values and Principles
+          AUT WEBSITE LINK
         </a>
       </header>
     </div>
